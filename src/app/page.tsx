@@ -16,7 +16,11 @@ export default function Home() {
         />
       </div>
 
-      <section></section>
+      <header>
+        <h2></h2>
+        <h1></h1>
+        <h3></h3>
+      </header>
     </main>
   );
 }

@@ -11,7 +11,14 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        mainBlue: "var(--primary-blue)",
+        lavenderLight: "var(--lavender-light)",
+        lavenderLighter: "var(--lavender-lighter)",
       },
+      dropShadow: {
+        mainDropShadow: "var(--primary-drop-shadow)",
+      },
+      borderColor: {},
     },
   },
   plugins: [],

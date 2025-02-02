@@ -4,9 +4,13 @@
 
 :root {
   --background: #ffffff;
+  --secondary-background: #f3f1f4;
   --foreground: #222222;
   --primary-blue: #513dff;
   --lavender-light: #cfc9ff;
   --lavender-lighter: #e2dfff;
-  --primary-drop-shadow: rgba(0, 0, 0, 0.05);
+  --primary-drop-shadow: 0 7px 9px rgba(0, 0, 0, 0.1);
+  --main-border: rgba(206, 206, 206, 0.5);
+
+  --radius-large: 33px;
 }
